@@ -19,10 +19,10 @@ To run this project locally, ensure the following:
 ### Steps to Run the Project Locally
 
 # 1. Clone the Repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/KunalGarg-PEC/QuantumCore.git
 
 # 2. Navigate to the Project Directory
-cd your-repository
+cd QuantumCore
 
 # 3. Install Dependencies
 npm install
