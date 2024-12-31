@@ -8,6 +8,9 @@ This project is a futuristic quantum computing application aimed at showcasing a
 - **Custom Solutions**: Tailored quantum solutions for industries like finance, healthcare, and AI.
 - **Developer Support**: Infrastructure to support quantum developers and researchers.
 
+Link of the Website
+https://quantum-core-theta.vercel.app/
+
 ## Installation and Usage
 
 ### Prerequisites
