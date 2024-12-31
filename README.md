@@ -6,9 +6,9 @@ This project is a futuristic quantum computing application aimed at showcasing a
 - **Quantum Speed**: Proprietary quantum chips with unmatched processing speed.
 - **Turnkey Systems**: Ready-to-use quantum systems for businesses and research institutions.
 - **Custom Solutions**: Tailored quantum solutions for industries like finance, healthcare, and AI.
-- **Developer Support**: Infrastructure to support quantum developers and researchers.
-
-Link of the Website
+- **Developer Support**: Infrastructure to support quantum developers and researchers.\
+  
+Website Link
 https://quantum-core-theta.vercel.app/
 
 ## Installation and Usage
